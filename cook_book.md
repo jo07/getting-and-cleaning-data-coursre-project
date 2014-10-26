@@ -13,7 +13,7 @@ A label describing the activity
 
     activity_label
 
-The mean across all observations for a particular measurement (e.g. tBodyAcc-mean()-X) of the particular acivity (e.g. WALKING) for the particular subject (e.g. 1). Even though each observation represents a mean, the original measurement's name was used for clarity. For more information about the original measurements, read the README.md in this repo, as well as the README.txt in the UCI HR Dataset (available for download here)
+The mean across all observations for a particular measurement (e.g. tBodyAcc-mean()-X) of the particular acivity (e.g. WALKING) for the particular subject (e.g. 1). Even though each observation represents a mean, the original measurement's name was used for clarity. For more information about the original measurements, read the README.md in this repo. 
 
     tBodyAcc-mean()-X
     tBodyAcc-mean()-Y
